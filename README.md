@@ -1,4 +1,4 @@
-# **`Felipe Soares`**
+# Felipe Soares
 
 ## About Me
 
