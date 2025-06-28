@@ -1,11 +1,10 @@
 # Felipe Soares
 
-## About Me
+## 👨‍💻 About Me
 
-Aspiring backend developer with a strong interest in Java, Spring Boot, and SQL.  
-I'm currently focused on building a solid foundation in software development by learning key technologies and applying best practices step by step.  
-I may be at the beginning of my journey, but I’m highly motivated, proactive, and eager to grow.  
-I'm looking for opportunities to learn, contribute to real projects, and work with experienced developers in dynamic and collaborative environments.
+Aspiring backend developer passionate about building solid, scalable solutions using Java, Spring Boot, and SQL.  
+Currently learning and practicing backend fundamentals through real code, clean architecture, and hands-on projects.  
+I'm motivated, curious, and looking to grow by working with experienced developers in collaborative environments.
 
 ---
 
@@ -29,7 +28,7 @@ Each one represents a step forward in my learning process and helps me connect t
   It was a group project in college, and I took the lead in most of the development.  
   This experience helped me understand programming logic and basic interface implementation.
 - **Technologies:** Java  
-- **Repository:** (https://github.com/soaaresDEV/quebracabeca)
+- **Repository:** (https://github.com/soaaresDEV/puzzlegame)
 
 ---
 
@@ -58,7 +57,7 @@ Each one represents a step forward in my learning process and helps me connect t
 ## 📚 Currently Learning
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-Beginner-green?style=flat-square&logo=java"/>
+  <img src="https://img.shields.io/badge/Java-Beginner-green?style=flat-square&logo=openjdk&logoColor=white" alt="Java Badge"/>
   <img src="https://img.shields.io/badge/Spring_Boot-Beginner-green?style=flat-square&logo=springboot"/>
   <img src="https://img.shields.io/badge/SQL-Beginner-green?style=flat-square&logo=mysql"/>
 </p>
